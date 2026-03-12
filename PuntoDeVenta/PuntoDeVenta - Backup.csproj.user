@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">	xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+    <Compile Update="Busqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fArticulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fCorteDeCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fDepartamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fVendedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

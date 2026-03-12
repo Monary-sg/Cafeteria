@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escrito04082025\\CafeteriaMon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|d:\\escrito04082025\\cafeteriamon\\puntodeventa\\dempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\dempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|d:\\escrito04082025\\cafeteriamon\\puntodeventa\\busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|d:\\escrito04082025\\cafeteriamon\\puntodeventa\\farticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\farticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|d:\\escrito04082025\\cafeteriamon\\puntodeventa\\farticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\farticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|d:\\escrito04082025\\cafeteriamon\\puntodeventa\\fcortedecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\fcortedecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|d:\\escrito04082025\\cafeteriamon\\puntodeventa\\fdepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\fdepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|d:\\escrito04082025\\cafeteriamon\\puntodeventa\\fvendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\fvendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|d:\\escrito04082025\\cafeteriamon\\puntodeventa\\fventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\fventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|d:\\escrito04082025\\cafeteriamon\\puntodeventa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70EB397A-26D4-4ED5-83FE-30BF5EE443B2}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Busqueda.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\Busqueda.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Busqueda.cs",
+              "ToolTip": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\Busqueda.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoDeVenta\\Busqueda.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:38:38.776Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DEmpresa.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\DEmpresa.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\DEmpresa.cs",
+              "ToolTip": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\DEmpresa.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "PuntoDeVenta\\DEmpresa.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:38:34.947Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fArticulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\fArticulo.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\fArticulo.cs",
+              "ToolTip": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\fArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoDeVenta\\fArticulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:38:33.249Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fArticulos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\fArticulos.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\fArticulos.cs",
+              "ToolTip": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\fArticulos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoDeVenta\\fArticulos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:38:31.785Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fDepartamentos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\fDepartamentos.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\fDepartamentos.cs",
+              "ToolTip": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\fDepartamentos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoDeVenta\\fDepartamentos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:38:28.875Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fVendedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\fVendedor.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\fVendedor.cs",
+              "ToolTip": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\fVendedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoDeVenta\\fVendedor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:38:27.626Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\fVentas.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\fVentas.cs",
+              "ToolTip": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\fVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoDeVenta\\fVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:38:25.746Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\Menu.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Menu.cs",
+              "ToolTip": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoDeVenta\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:38:23.675Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fCorteDeCaja.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\fCorteDeCaja.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\fCorteDeCaja.cs",
+              "ToolTip": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\fCorteDeCaja.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PuntoDeVenta\\fCorteDeCaja.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:38:08.661Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

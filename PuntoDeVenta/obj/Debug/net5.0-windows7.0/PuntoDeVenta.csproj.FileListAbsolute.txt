@@ -1,0 +1,13 @@
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.Busqueda.resources
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.fArticulo.resources
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.fArticulos.resources
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.fDepartamentos.resources
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.fVentas.resources
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.Menu.resources
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.Properties.Resources.resources
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.AssemblyInfo.cs
+C:\Sistemas\PuntoDeVenta\PuntoDeVenta\obj\Debug\net5.0-windows7.0\PuntoDeVenta.csproj.CoreCompileInputs.cache
