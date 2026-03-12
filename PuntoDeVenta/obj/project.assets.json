@@ -476,11 +476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\PuntoDeVenta.csproj",
+      "projectUniqueName": "C:\\Users\\monse\\OneDrive\\Escritorio\\CafeteriaMon\\PuntoDeVenta\\PuntoDeVenta.csproj",
       "projectName": "PuntoDeVenta",
-      "projectPath": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\PuntoDeVenta.csproj",
+      "projectPath": "C:\\Users\\monse\\OneDrive\\Escritorio\\CafeteriaMon\\PuntoDeVenta\\PuntoDeVenta.csproj",
       "packagesPath": "C:\\Users\\monse\\.nuget\\packages\\",
-      "outputPath": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\obj\\",
+      "outputPath": "C:\\Users\\monse\\OneDrive\\Escritorio\\CafeteriaMon\\PuntoDeVenta\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

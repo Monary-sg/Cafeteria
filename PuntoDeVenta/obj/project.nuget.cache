@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TnoS1x0GNoY=",
+  "dgSpecHash": "eKlgOUaJjsk=",
   "success": true,
-  "projectFilePath": "D:\\Escrito04082025\\CafeteriaMon\\PuntoDeVenta\\PuntoDeVenta.csproj",
+  "projectFilePath": "C:\\Users\\monse\\OneDrive\\Escritorio\\CafeteriaMon\\PuntoDeVenta\\PuntoDeVenta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\monse\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\monse\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
