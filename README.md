@@ -10,3 +10,4 @@ Se agregaron tablas para artículos y vendedores
 Se optimizaron consultas SQL
 Se diseñó la pantalla principal
 Se mejoró la interfaz de ventas
+Se actualizaron estilos y colores del sistema
