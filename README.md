@@ -13,3 +13,4 @@ Se mejoró la interfaz de ventas
 Se actualizaron estilos y colores del sistema
 Se agregó módulo de gestión de usuarios
 Se integró la conexión con SQL Server
+Se corrigieron errores detectados en pruebas
