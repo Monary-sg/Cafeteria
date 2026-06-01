@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -81,6 +81,7 @@ namespace PuntoDeVenta
 
         private void bGuardar_Click(object sender, EventArgs e)
         {
+            // Validación de departamento implementada
             MiDepa.Id = int.Parse(tbId.Text);
             MiDepa.Nombre = tbNombre.Text;
             MiDepa.UsaTamaMl = CbMili.Checked;
