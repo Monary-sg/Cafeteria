@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,6 +20,14 @@ namespace PuntoDeVenta
 
         private void bBuscar_Click(object sender, EventArgs e)
         {
+            // Validaciones para productos agregadas
+            if (string.IsNullOrWhiteSpace(tbFiltrar.Text))
+            {
+                MessageBox.Show("Por favor ingrese un criterio de búsqueda", "Validación", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                tbFiltrar.Focus();
+                return;
+            }
+
             tabla = Clases.Datos.Consulta($"Select * from articulos where nombre like '%" + tbFiltrar.Text + "%'");
             dataGridView1.DataSource = tabla;
 
