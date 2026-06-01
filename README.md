@@ -9,3 +9,4 @@ Se creó la estructura inicial de la base de datos
 Se agregaron tablas para artículos y vendedores
 Se optimizaron consultas SQL
 Se diseñó la pantalla principal
+Se mejoró la interfaz de ventas
