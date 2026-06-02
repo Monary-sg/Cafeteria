@@ -4,7 +4,7 @@
 
 Sistema de punto de venta (POS) integral diseñado para gestionar operaciones en un local de cafetería. Esta aplicación proporciona una solución completa para administrar ventas, inventario, usuarios y reportes de manera eficiente y segura.
 
-El programa está desarrollado con lógica modular y escalable, lo que permite adaptarlo fácilmente a diferentes tipos de negocios (restaurantes, tiendas, bares, etc.).
+El programa está desarrollado con lógica modular y escalable, lo que permite adaptarlo fácilmente a diferentes tipos de negocios (tiendas entre otros).
 
 ## Características Principales
 
@@ -12,7 +12,6 @@ El programa está desarrollado con lógica modular y escalable, lo que permite a
 - Módulo completo para administrar productos del local
 - Gestión de departamentos y categorías
 - Validaciones automáticas de productos
-- Control de inventario
 
 ### Módulo de Ventas
 - Registro de transacciones en tiempo real
@@ -24,13 +23,10 @@ El programa está desarrollado con lógica modular y escalable, lo que permite a
 - Sistema de inicio de sesión seguro
 - Control de permisos y acceso basado en roles
 - Registro y auditoría de operaciones por usuario
-- Validaciones de acceso
 
 ### Corte de Caja
 - Cierre diario de operaciones
 - Reconciliación de ventas
-- Reportes de ingresos
-- Verificación de caja
 
 ### Optimizaciones
 - Consultas SQL optimizadas para mejor rendimiento
@@ -47,7 +43,6 @@ El programa está desarrollado con lógica modular y escalable, lo que permite a
 
 Este sistema es ideal para:
 - Cafeterías y cafés
-- Restaurantes y comedores
 - Tiendas minoristas
 - Negocios de comida rápida
 - Pequeños comercios
@@ -86,11 +81,10 @@ Consulta el archivo COMMITS_LOG.md para ver el historial detallado de cambios y 
 
 ## Licencia
 
-[Especificar licencia si es aplicable]
 
 ## Autor
 
-Desarrollado por: Monary-sg
+Desarrollado por: Monserrat Vidal y Bryan Gutierres 
 
 ---
 
