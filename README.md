@@ -14,14 +14,10 @@ El programa está desarrollado con lógica modular y escalable, lo que permite a
 - Validaciones automáticas de productos
 
 ### Módulo de Ventas
-- Registro de transacciones en tiempo real
 - Interfaz intuitiva para procesamiento rápido de ventas
 - Cálculo automático de totales y cambio
-- Integración con múltiples métodos de pago
 
 ### Gestión de Usuarios
-- Sistema de inicio de sesión seguro
-- Control de permisos y acceso basado en roles
 - Registro y auditoría de operaciones por usuario
 
 ### Corte de Caja
@@ -55,7 +51,6 @@ Este sistema es ideal para:
 ├── Ventas/             # Módulo de transacciones
 ├── Usuarios/           # Sistema de autenticación
 ├── CorteCaja/          # Cierre y reportes
-├── Reportes/           # Análisis y estadísticas
 └── BD/                 # Scripts de base de datos
 ```
 
