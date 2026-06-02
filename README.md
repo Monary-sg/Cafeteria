@@ -1,17 +1,97 @@
-# Cafeteria
+# Sistema de Venta de Cafetería
 
-Se agregó módulo de artículos
-Se implementó gestión de departamentos
-Se añadieron validaciones para productos
-Se implementó registro de ventas
-Se corrigieron errores en el proceso de ventas
-Se creó la estructura inicial de la base de datos
-Se agregaron tablas para artículos y vendedores
-Se optimizaron consultas SQL
-Se diseñó la pantalla principal
-Se mejoró la interfaz de ventas
-Se actualizaron estilos y colores del sistema
-Se agregó módulo de gestión de usuarios
-Se integró la conexión con SQL Server
-Se corrigieron errores detectados en pruebas
-Versión final del sistema de cafetería
+## Descripción
+
+Sistema de punto de venta (POS) integral diseñado para gestionar operaciones en un local de cafetería. Esta aplicación proporciona una solución completa para administrar ventas, inventario, usuarios y reportes de manera eficiente y segura.
+
+El programa está desarrollado con lógica modular y escalable, lo que permite adaptarlo fácilmente a diferentes tipos de negocios (restaurantes, tiendas, bares, etc.).
+
+## Características Principales
+
+### Gestión de Artículos
+- Módulo completo para administrar productos del local
+- Gestión de departamentos y categorías
+- Validaciones automáticas de productos
+- Control de inventario
+
+### Módulo de Ventas
+- Registro de transacciones en tiempo real
+- Interfaz intuitiva para procesamiento rápido de ventas
+- Cálculo automático de totales y cambio
+- Integración con múltiples métodos de pago
+
+### Gestión de Usuarios
+- Sistema de inicio de sesión seguro
+- Control de permisos y acceso basado en roles
+- Registro y auditoría de operaciones por usuario
+- Validaciones de acceso
+
+### Corte de Caja
+- Cierre diario de operaciones
+- Reconciliación de ventas
+- Reportes de ingresos
+- Verificación de caja
+
+### Optimizaciones
+- Consultas SQL optimizadas para mejor rendimiento
+- Base de datos relacional estructurada
+- Respuesta rápida en operaciones de ventas
+
+## Tecnologías Utilizadas
+
+- Lenguaje: C#
+- Base de Datos: SQL Server
+- Tipo: Aplicación de Escritorio (.NET)
+
+## Casos de Uso
+
+Este sistema es ideal para:
+- Cafeterías y cafés
+- Restaurantes y comedores
+- Tiendas minoristas
+- Negocios de comida rápida
+- Pequeños comercios
+
+## Estructura del Proyecto
+
+```
+├── Artículos/          # Gestión de productos
+├── Departamentos/      # Categorías y departamentos
+├── Ventas/             # Módulo de transacciones
+├── Usuarios/           # Sistema de autenticación
+├── CorteCaja/          # Cierre y reportes
+├── Reportes/           # Análisis y estadísticas
+└── BD/                 # Scripts de base de datos
+```
+
+## Cómo Comenzar
+
+1. Requisitos previos
+   - .NET Framework / .NET Core
+   - SQL Server instalado
+
+2. Instalación
+   - Clonar el repositorio
+   - Configurar la conexión a SQL Server
+   - Ejecutar scripts de base de datos
+
+3. Uso
+   - Ejecutar la aplicación
+   - Crear usuario administrador
+   - Comenzar a registrar ventas
+
+## Log de Commits
+
+Consulta el archivo COMMITS_LOG.md para ver el historial detallado de cambios y desarrollo del sistema.
+
+## Licencia
+
+[Especificar licencia si es aplicable]
+
+## Autor
+
+Desarrollado por: Monary-sg
+
+---
+
+Nota: Este sistema es escalable y modular, permitiendo personalizaciones según las necesidades específicas de cada negocio.
