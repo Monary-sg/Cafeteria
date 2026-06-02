@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Sistema de punto de venta (POS) integral diseñado para gestionar operaciones en un local de cafetería. Esta aplicación proporciona una solución completa para administrar ventas, inventario, usuarios y reportes de manera eficiente y segura.
+Sistema de punto de venta (POS) integral diseñado para gestionar operaciones en un local de cafetería. Esta aplicación proporciona una solución completa para administrar ventas, inventario y usuarios de manera eficiente y segura.
 
 El programa está desarrollado con lógica modular y escalable, lo que permite adaptarlo fácilmente a diferentes tipos de negocios (tiendas entre otros).
 
